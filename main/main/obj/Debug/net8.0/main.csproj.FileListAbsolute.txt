@@ -1,0 +1,14 @@
+G:\Software Coding\C#\C_Sharp\main\main\bin\Debug\net8.0\main.exe
+G:\Software Coding\C#\C_Sharp\main\main\bin\Debug\net8.0\main.deps.json
+G:\Software Coding\C#\C_Sharp\main\main\bin\Debug\net8.0\main.runtimeconfig.json
+G:\Software Coding\C#\C_Sharp\main\main\bin\Debug\net8.0\main.dll
+G:\Software Coding\C#\C_Sharp\main\main\bin\Debug\net8.0\main.pdb
+G:\Software Coding\C#\C_Sharp\main\main\obj\Debug\net8.0\main.GeneratedMSBuildEditorConfig.editorconfig
+G:\Software Coding\C#\C_Sharp\main\main\obj\Debug\net8.0\main.AssemblyInfoInputs.cache
+G:\Software Coding\C#\C_Sharp\main\main\obj\Debug\net8.0\main.AssemblyInfo.cs
+G:\Software Coding\C#\C_Sharp\main\main\obj\Debug\net8.0\main.csproj.CoreCompileInputs.cache
+G:\Software Coding\C#\C_Sharp\main\main\obj\Debug\net8.0\main.dll
+G:\Software Coding\C#\C_Sharp\main\main\obj\Debug\net8.0\refint\main.dll
+G:\Software Coding\C#\C_Sharp\main\main\obj\Debug\net8.0\main.pdb
+G:\Software Coding\C#\C_Sharp\main\main\obj\Debug\net8.0\main.genruntimeconfig.cache
+G:\Software Coding\C#\C_Sharp\main\main\obj\Debug\net8.0\ref\main.dll
